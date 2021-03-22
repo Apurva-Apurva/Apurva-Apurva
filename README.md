@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Apurba-Gouda
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning kotlin, Jetpack
-- 💞️ I’m looking to collaborate on Developing Android apps
+- 👋 Hi, I’m @Apurba-Apurva
+- 👀 interested in Android Development
+- 🌱 currently learning kotlin, Jetpack
+- 💞️ looking to collaborate on Developing Android apps
 - 📫 How to reach me - mail me at apurva.gouda@gmail.com
 
 <!---
